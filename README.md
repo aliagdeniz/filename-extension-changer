@@ -19,7 +19,8 @@ Options:
 
 Installation:
 -------------
-    git clone https://github.com/aliagdeniz/filename-extension-changer
+    $ git clone https://github.com/aliagdeniz/filename-extension-changer
+    $ cd filename-extension-changer
     $ python filename-extension-changer.py
 
 License:
